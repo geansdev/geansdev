@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=geansdev&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geansdev&layout=compact)](https://github.com/genasdev/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geansdev&layout=compact)](https://github.com/geansdev/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <p>I technologies use on a daily basis!</p>
